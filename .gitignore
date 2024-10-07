@@ -1,0 +1,4 @@
+/.deploys
+/.deps
+artifacts
+/.prettierrc.json
